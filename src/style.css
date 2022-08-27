@@ -1,0 +1,12 @@
+h1{
+    background-color: yellow;
+    color: rgb(43, 37, 29);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+h3{
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
