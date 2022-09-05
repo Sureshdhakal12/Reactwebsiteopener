@@ -11,9 +11,15 @@ h3{
     text-align: center;
 }
 button{
-    background-color: thistle;
-    color: brown;
+    background-color: rgb(36, 116, 46);
+    color: rgb(0, 8, 4);
     padding: 12px 24px;
     text-align: center;
     font-size: 20px;
+    border-radius: 5px;
+    margin: 2px;
+}
+
+div{
+    text-align: center;
 }
